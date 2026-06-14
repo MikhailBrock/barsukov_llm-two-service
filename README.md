@@ -81,13 +81,13 @@ uv run pytest tests/ -v
 project/
 ├── docker-compose.yml
 ├── screenshots/
-    ├── 01_auth_register.jpeg
-    ├── 02_auth_login.jpeg
-    ├── 03_auth_me.jpeg
-    ├── 04_telegram_bot.jpeg
-    ├── 05_rabbitmq.jpeg
-    ├── 06_auth_tests.jpeg
-    └── 07_bot_tests.jpeg
+│   ├── 01_auth_register.jpeg
+│   ├── 02_auth_login.jpeg
+│   ├── 03_auth_me.jpeg
+│   ├── 04_telegram_bot.jpeg
+│   ├── 05_rabbitmq.jpeg
+│   ├── 06_auth_tests.jpeg
+│   └── 07_bot_tests.jpeg
 ├── auth_service/
 │   ├── app/
 │   │   ├── main.py
