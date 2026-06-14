@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# pytest
+.pytest_cache/
+
+# env
+.env
+auth_service/.env
+bot_service/.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
